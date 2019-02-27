@@ -2,13 +2,11 @@
 
 # VoiceFirst Reading List
 
-A reading list for conversational voice interface designers.
-
-- **Note:** if you want to add yours, just send a pull request. 👋
+**A reading list for conversational voice interface designers.**
+Note: if you want to add yours, just send a pull request. 👋
 
 ### Directories
 - [CUI Tools](https://cui.tools) > Best Tools & Resources for Conversational AI Design Projects
-- 
 
 ### Jobs
 - [CT Job Board](https://cui.tools/job-board/) > Find jobs in conversational AI
