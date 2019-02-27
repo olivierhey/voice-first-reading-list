@@ -1,3 +1,5 @@
+![VoiceFirst Reading List](header.png)
+
 # VoiceFirst Reading List
 
 A reading list for voice interface designers.
