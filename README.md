@@ -23,3 +23,4 @@ A reading list for voice interface designers.
 ### Videos
 
 ### Podcasts
+- [Voice Tech Podcast](https://voicetechpodcast.com)
