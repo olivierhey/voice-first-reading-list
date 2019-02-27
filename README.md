@@ -15,8 +15,8 @@ A reading list for voice interface designers.
 - 
 
 ### Articles
-- [UI of the Future: The Basic Principles of Conversational User Interfaces](https://www.shopify.com/partners/blog/conversational-user-interfaces) Good list of steps and description of elements involved
-- [How to write dialogue for Conversational UI](http://hvdam.com/dialogue-for-conversational-ui/) Tips on writing dialog 
+- [UI of the Future: The Basic Principles of Conversational User Interfaces](https://www.shopify.com/partners/blog/conversational-user-interfaces) > Good list of steps and description of elements involved
+- [How to write dialogue for Conversational UI](http://hvdam.com/dialogue-for-conversational-ui/) > Tips on writing dialog 
 
 ### Tutorials
 
