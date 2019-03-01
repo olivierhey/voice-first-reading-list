@@ -22,6 +22,7 @@ A reading list for conversational voice interface designers.
 ### Tutorials
 
 ### Videos
+- [How to write a sample dialog in 60 seconds!](https://www.youtube.com/watch?v=sb75sitmPCc) > Let Cathy Pearl, Google's Head of Conversation Design Outreach, show you how it's done.
 
 ### Podcasts
 - [Voice Tech Podcast](https://voicetechpodcast.com)
