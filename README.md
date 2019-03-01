@@ -26,3 +26,4 @@ A reading list for conversational voice interface designers.
 
 ### Podcasts
 - [Voice Tech Podcast](https://voicetechpodcast.com)
+- [VUX World](https://vux.world) > The practical voice podcast.
