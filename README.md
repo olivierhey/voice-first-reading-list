@@ -9,8 +9,8 @@ A reading list for conversational voice interface designers.
 ### Directories
 - [CUI Tools](https://cui.tools) > Best Tools & Resources for Conversational AI Design Projects
 
-~~### Jobs
-~~- [CT Job Board](https://cui.tools/job-board/) > Find jobs in conversational AI~~
+~~Jobs
+~~[CT Job Board](https://cui.tools/job-board/) > Find jobs in conversational AI~~
 
 ### Books
 - [Designing Voice User Interfaces: Principles of Conversational Experiences](https://www.amazon.com/Designing-Voice-User-Interfaces-Conversational/dp/1491955414) > Great book by Cathy Pearl, published by O'Reilly about the principles of conversational experiences.
